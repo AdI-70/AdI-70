@@ -50,25 +50,14 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdI-70&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdI-70&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
-
----
 
 <div align="center">
   <h3>Let's Connect & Build</h3>
-  <a href="https://twitter.com/your_twitter_handle">
+  <a href="https://twitter.com/zerithx">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
-  <a href="https://linkedin.com/in/your_linkedin_handle">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your_email@example.com">
+
+  <a href="mailto:adishukla.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
