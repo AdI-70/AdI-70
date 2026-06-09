@@ -5,7 +5,8 @@
   <h3>Building practical AI systems, RAG products, MCP tooling, and clean UI experiences.</h3>
   
   <p>
-    <b>📍 Lucknow, India</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
+    <b>📍 
+      India</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
     <b>🚀 Modern Builder</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
     <b>🧠 AI-Focused</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
     <b>🔬 Experimental</b>
