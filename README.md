@@ -1,13 +1,12 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Aditya&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Product%20Minded&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Aditya&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=%&descAlignY=55&descSize=20" alt="Header" />
 
   <h3>Building practical AI systems, RAG products, MCP tooling, and full-stack AI Applications.</h3>
   
   <p>
     <b>📍 
-      India</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
-    <b>🚀 Robotics</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
+      India</b> &nbsp;&nbsp;|&nbsp;&nbsp;
     <b>🧠 AI</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
   
   </p>
